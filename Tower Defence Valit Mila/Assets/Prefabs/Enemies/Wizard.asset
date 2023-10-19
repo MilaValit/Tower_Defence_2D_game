@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 34725319c444a824b88c6b4cacf2f7ca, type: 3}
+  m_Name: Wizard
+  m_EditorClassIdentifier: 
+  color: {r: 1, g: 1, b: 1, a: 1}
+  spriteScale: {x: 1.6, y: 1.6}
+  animations: {fileID: 9100000, guid: 267d6d55819cd2240bcb9388ea1449d9, type: 2}
+  moveSpeed: 1.2
+  hp: 9
+  armor: 0
+  armorType: 0
+  score: 1
+  radius: 0.16
+  damage: 2
+  gold: 12

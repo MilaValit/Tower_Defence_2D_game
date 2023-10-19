@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 34725319c444a824b88c6b4cacf2f7ca, type: 3}
+  m_Name: Goblin
+  m_EditorClassIdentifier: 
+  color: {r: 1, g: 1, b: 1, a: 1}
+  spriteScale: {x: 2, y: 2}
+  animations: {fileID: 9100000, guid: 9059b0bb22e6e2b45a0d6e42e680222d, type: 2}
+  moveSpeed: 1.7
+  hp: 6
+  armor: 0
+  armorType: 0
+  score: 1
+  radius: 0.19
+  damage: 1
+  gold: 8

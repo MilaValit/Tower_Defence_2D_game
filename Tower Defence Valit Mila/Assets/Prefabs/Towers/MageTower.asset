@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2e3801b5c8634ff40ad1b222dfb36f6f, type: 3}
+  m_Name: MageTower
+  m_EditorClassIdentifier: 
+  goldCost: 85
+  GUISprite: {fileID: 21300000, guid: 1ff55c4a74fcf9b429b49b787ead3395, type: 3}
+  sprite: {fileID: 21300000, guid: 298636722737c4b41816506cd4bc994f, type: 3}
+  turretProperties: {fileID: 11400000, guid: 9cefca7ba2c9eb44cb21406dd8aacb48, type: 2}
+  requiredUpgrade: {fileID: 11400000, guid: 73a429a6d4098c849893a41b80fa9d47, type: 2}
+  requiredUpgradeLevel: 0
+  m_UpgradesTo:
+  - {fileID: 11400000, guid: 9ae247fab19fe654eba24e5af46b6d97, type: 2}
